@@ -8,4 +8,5 @@
 ##
 2. [Ejercicio del día 2](https://github.com/ImNoth1ng/CI-PythonPOO/blob/main/MartesPOO.ipynb) Ejercicio de Colaboratory, además de este archivo se crearon los archivos en PyCharm de [Clase 2](https://github.com/ImNoth1ng/CI-PythonPOO/tree/main/MartesPOO) Estos ejercicios se enfocaron en el uso de funciones, clases y objetos.
 ##
+3. [Ejercicios del día 3](https://github.com/ImNoth1ng/CI-PythonPOO/tree/main/MiercolesPOO) En el día 3 se crearon solo dos archivos, en los cuales se trabajó los conceptos de encapsulamiento por @property y @atributo.setter, además se trabajó con el @staticmethod y @classmethod.
 
