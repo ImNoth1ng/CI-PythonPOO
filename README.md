@@ -10,3 +10,5 @@
 ##
 3. [Ejercicios del día 3](https://github.com/ImNoth1ng/CI-PythonPOO/tree/main/MiercolesPOO) En el día 3 se crearon solo dos archivos, en los cuales se trabajó los conceptos de encapsulamiento por @property y @atributo.setter, además se trabajó con el @staticmethod y @classmethod.
 
+##
+4. [Ejercicios del día 4](https://github.com/ImNoth1ng/CI-PythonPOO/tree/main/JuevesPOO)En el día 4 se crearon los archivos, main, cosas y además un diagrama de clases en StarUML. En este día se trabajó con el concepto de herencia, y el uso de super() para llamar a los métodos de la clase padre.

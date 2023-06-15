@@ -109,3 +109,11 @@ class Perro:
         if est > 0.79:
             return cls("",0,est)
 
+
+    @classmethod
+    def contructor_dos(cls, raza, edad):
+        if edad > 0 and edad < 20:
+            return cls(raza, edad, 0.0)
+        else:
+            return cls(raza, 0, 0.0)
+

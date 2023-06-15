@@ -41,10 +41,23 @@ def main():
     print("---------Dormir------")
     p1.dormir(5)
 
+    Perro.dormir()
+    print("<---------------------->")
+
     print("---------Ladrar------")
     p1.ladrar(5)
     p1.ladrar(6)
 
     danes = Perro.perro_grande(0.8)
     print(danes)
+
+    print("---------Contructor------")
+
+    obj1 = Perro("Pug", 1, 0.4)
+    obj2 =Perro.perro_grande(0.9)
+    obj3 = Perro.contructor_dos("Frenchie", 23)
+
+    print(obj1)
+    print(obj2)
+    print(obj3)
 main()
