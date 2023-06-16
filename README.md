@@ -12,3 +12,6 @@
 
 ##
 4. [Ejercicios del día 4](https://github.com/ImNoth1ng/CI-PythonPOO/tree/main/JuevesPOO)En el día 4 se crearon los archivos, main, cosas y además un diagrama de clases en StarUML. En este día se trabajó con el concepto de herencia, y el uso de super() para llamar a los métodos de la clase padre.
+
+##
+5. [Ejercicios del día 5](https://github.com/ImNoth1ng/CI-PythonPOO/tree/main/ViernesPOO) En el día 5 repasamos la herencia, vimos polimorfismo y herencia multiple y además vimos como utilizar librerias como pandas y tkinter.
